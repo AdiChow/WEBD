@@ -1,0 +1,31 @@
+p{
+    color: chocolate;
+    font-size: 20px;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+
+}
+h2{
+    font-size: 40px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+h2,p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    font-size: 30px;
+    
+} 
+#Heading{
+    color:#3c544a;
+}
+#Heading:hover{
+    color: aqua;
+}
+.uppercase{
+    
+    
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
+}
